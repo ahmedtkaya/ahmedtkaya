@@ -23,7 +23,7 @@
  <a href="https://www.instagram.com/ahmedtkaya/" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/plasticine/100/undefined/instagram-new--v2.png"/><a/> 
    </br>
    
-   <h1>My Mood!</h>
+   <h1>By The Way!</h>
    </n>
   
 
