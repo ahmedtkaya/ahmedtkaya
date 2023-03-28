@@ -4,7 +4,7 @@
  I am 23 and i am a student, i study ındustrial engineering in Turkey and develop my software abilities in same time.
  </br>
  
-- 🤖 I generally write API's for react native projects with .Net Core and some MVC applications with Node.JS
+- 🤖 I generally write API's for React Native projects with NODE.js and some MVC applications with that.
 - 🧐 I'm always learning and developing my self.
 - 📩 This is my Linkedln account: [Linkedln](https://www.linkedin.com/in/ahmed-tayyib-kaya-4475341a0).
 
