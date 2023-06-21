@@ -1,7 +1,7 @@
-### Hi, I am Ahmed 🤪
+### Hi, I am Ahmed 💁🏻
 
 
- I am 23 and i am a student, i study ındustrial engineering in Turkey and develop my software abilities in same time.
+ I am 24 and i am a student, i study ındustrial engineering in Turkey and develop my software abilities in same time.
  </br>
  
 - 🤖 I generally write API's for React Native projects with NODE.js and some MVC applications with that.
@@ -15,8 +15,7 @@
   <!--![logo](https://user-images.githubusercontent.com/47714484/184490038-0778627f-5fdf-42e3-bccb-613054a1c216.gif)--> 
 </p>
 <p>
- - API's => <img align="center" width="30px" src="https://user-images.githubusercontent.com/47714484/218311380-86f03b30-03a8-4c47-b657-e7348a6c79ea.png"/>
- and <img align="center" width="60px" src="https://user-images.githubusercontent.com/47714484/184490038-0778627f-5fdf-42e3-bccb-613054a1c216.gif"/>
+ - API's =>  <img align="center" width="60px" src="https://user-images.githubusercontent.com/47714484/184490038-0778627f-5fdf-42e3-bccb-613054a1c216.gif"/>
 </p>
 <p>
  - Mobile Applications => <img align="center" width="30px" src="https://user-images.githubusercontent.com/47714484/218311716-1b2cde4d-18d4-4f20-9b3a-7e5b23f666e2.png"/>
