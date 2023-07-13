@@ -1,7 +1,7 @@
 ### Hi, I am Ahmed 💁🏻
 
 # 💫 About Me:
-👨🏻‍🎓 Student of Industrial Engineering<br>💻 Back-End developer<br>📱 React Native developer<br><br><br>I am 24 years old and I am in my last year on university. I have improved myself since when ı was start to learn programming. Nowadays, I had many information about the back-end and mobile development, which is show you I am a back-end developer. I develop my react native projects for publish. At the same time I write API's with NODE.JS for my own projects.
+👨🏻‍🎓 Student of Industrial Engineering<br>💻 Back-End developer<br>📱 React Native developer<br><br><br>I am 24 years old and I am in my last year at the university. I have improved myself since when ı was start to learn programming. Nowadays, I had many information about the back-end and mobile development, which is show you I am a back-end developer. I develop my react native projects for publish. At the same time I write API's with NODE.JS for my own projects.
 
 
 ## 🌐 Socials:
