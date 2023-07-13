@@ -1,40 +1,22 @@
 ### Hi, I am Ahmed 💁🏻
 
-
- I am 24 and i am a student, i study ındustrial engineering in Turkey and develop my software abilities in same time.
- </br>
- 
-- 🤖 I generally write API's for React Native projects with NODE.js and some MVC applications with that.
-- 🧐 I'm always learning and developing my self.
-- 📩 This is my Linkedln account: [Linkedln](https://www.linkedin.com/in/ahmed-tayyib-kaya-4475341a0).
+# 💫 About Me:
+👨🏻‍🎓 Student of Industrial Engineering<br>💻 Back-End developer<br>📱 React Native developer<br><br><br>I am 24 years old and I am in my last year on university. I have improved myself since when ı was start to learn programming. Nowadays, I had many information about the back-end and mobile development, which is show you I am a back-end developer. I develop my react native projects for publish. At the same time I write API's with NODE.JS for my own projects.
 
 
-<h1>My Software Skills</h1>
-<p>- MVC Projects with =>
-  <img align="center" width="60px" src="https://user-images.githubusercontent.com/47714484/184490038-0778627f-5fdf-42e3-bccb-613054a1c216.gif"/>
-  <!--![logo](https://user-images.githubusercontent.com/47714484/184490038-0778627f-5fdf-42e3-bccb-613054a1c216.gif)--> 
-</p>
-<p>
- - API's =>  <img align="center" width="60px" src="https://user-images.githubusercontent.com/47714484/184490038-0778627f-5fdf-42e3-bccb-613054a1c216.gif"/>
-</p>
-<p>
- - Mobile Applications => <img align="center" width="30px" src="https://user-images.githubusercontent.com/47714484/218311716-1b2cde4d-18d4-4f20-9b3a-7e5b23f666e2.png"/>
-</p>
-<p>
- - Database => <img align="center" width="50px" src="https://user-images.githubusercontent.com/47714484/218311804-d8161b10-a68f-43fc-88f9-6163f3fd6867.jpg"/>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedtkaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-tayyib-kaya-4475341a0/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@atkahmed9924) 
 
-<h1>How can you contact with me?</h1>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<a href="mailto:atkaya03@gmail.com" ><img width="30px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/><a/> 
- <a href="https://www.linkedin.com/in/ahmed-tayyib-kaya-4475341a0/" ><img width="30px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/><a/> 
- <a href="https://www.instagram.com/ahmedtkaya/" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/plasticine/100/undefined/instagram-new--v2.png"/><a/> 
-   </br>
-   
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   </br> 
    <h1>By The Way!</h>
    </n>
   
-
 ![5kvM](https://user-images.githubusercontent.com/47714484/184485952-8a991c1f-8405-444a-95be-0e5452747d84.gif)
 
 
