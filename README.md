@@ -1,7 +1,7 @@
 ### Hi, I am Ahmed 💁🏻
 
 # 💫 About Me:
-👨🏻‍🎓Industrial Engineer<br>💻 Back-End developer<br><br><br>I am 25 years old. I have improved myself since when ı was start to learn programming. Nowadays, I have many information about the back-end and mobile development, which is show you I am a back-end developer. At the same time I write API's with NODE.JS for my own projects.
+👨🏻‍🎓Industrial Engineer<br>💻 Back-End developer<br><br><br>I am 25 years old. I have improved myself since when ı was start to learn programming. Nowadays, I have many information about the back-end and full-stack development, which is show you I am a full-stack developer. At the same time I write API's with NODE.JS and .Net8 for my own projects.
 
 
 ## 🌐 Socials:
