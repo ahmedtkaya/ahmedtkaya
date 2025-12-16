@@ -1,7 +1,7 @@
 ### Hi, I am Ahmed 💁🏻
 
 # 💫 About Me:
-👨🏻‍🎓 Industrial Engineer<br>💻 Full Stack developer<br><br><br>I am 26 years old. I am working at the fintech company of IQ Money. Until now I have gained some experience about computer science. I develop front-end and back-end at the same case.
+👨🏻‍🎓 Industrial Engineer<br>💻 Full Stack developer<br><br><br>I am 26 years old. I worked at e-commerce industry and many freelance projects. Until now I have gained some experience about computer science. I develop front-end and back-end at the same case.
 
 
 ## 🌐 Socials:
